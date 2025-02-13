@@ -1,0 +1,34 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                               Test Method: 'SpotifyTest.TestSpotify.SignupSteps'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://www.spotify.com/eg-ar/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F" @13-02-2025 21:41:44.0672 PM
+[ReportManager] Initial URL: "about:blank" @13-02-2025 21:41:44.0717 PM
+[ReportManager] Navigate to url "https://www.spotify.com/eg-ar/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F". @13-02-2025 21:41:48.0562 PM
+[ReportManager] Text cleared Using Native Clear @13-02-2025 21:41:49.0045 PM
+[ReportManager] Type "esraauber4@gmail.com" into "Email address". @13-02-2025 21:41:49.0361 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:49.0851 PM
+[ReportManager] Click "Next". @13-02-2025 21:41:50.0058 PM
+[ReportManager] Text cleared Using Native Clear @13-02-2025 21:41:50.0265 PM
+[ReportManager] Type "E@123456789" into "Use tab to navigate to the password requirements". @13-02-2025 21:41:50.0408 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:50.0616 PM
+[ReportManager] Click "Next". @13-02-2025 21:41:50.0806 PM
+[ReportManager] Text cleared Using Native Clear @13-02-2025 21:41:51.0007 PM
+[ReportManager] Type "EsraaMohammed" into "Name". @13-02-2025 21:41:51.0162 PM
+[ReportManager] Text cleared Using Native Clear @13-02-2025 21:41:51.0349 PM
+[ReportManager] Type "11" into "Date of birth". @13-02-2025 21:41:51.0438 PM
+[ReportManager] Select "November" from "By.xpath: //select[@name='month']". @13-02-2025 21:41:52.0441 PM
+[ReportManager] Text cleared Using Native Clear @13-02-2025 21:41:52.0529 PM
+[ReportManager] Type "2000" into "yyyy". @13-02-2025 21:41:52.0579 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:52.0758 PM
+[ReportManager] Click "By.xpath: //label[@for='gender_option_female']". @13-02-2025 21:41:52.0880 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:53.0055 PM
+[ReportManager] Click "Next". @13-02-2025 21:41:53.0130 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:53.0322 PM
+[ReportManager] Click "By.xpath: //label[@for='checkbox-marketing']". @13-02-2025 21:41:53.0379 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:53.0555 PM
+[ReportManager] Click "By.xpath: //label[@for='checkbox-privacy']". @13-02-2025 21:41:53.0615 PM
+[ReportManager] Moved the mouse to the middle of the element. @13-02-2025 21:41:53.0791 PM
+[ReportManager] Click "Sign up". @13-02-2025 21:41:53.0903 PM
